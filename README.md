@@ -1,4 +1,4 @@
-![GitHub watchers](https://img.shields.io/github/watchers/Magnito14/NamedPipeLocator?label=Current%20Watchers&style=plastic)
+![GitHub watchers](https://img.shields.io/github/watchers/Magnito14/NamedPipeLocator?label=Current%20Watchers)
 ![GitHub release (by tag)](https://img.shields.io/github/downloads/Magnito14/NamedPipeLocator/Release/total?label=Downloads)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Magnito14/NamedPipeLocator?label=Repo%20Size)
 
