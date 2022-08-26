@@ -1,0 +1,11 @@
+C:\Users\luxju\source\repos\Pipe Locator\Pipe Locator\bin\Debug\Pipe Locator.exe.config
+C:\Users\luxju\source\repos\Pipe Locator\Pipe Locator\bin\Debug\Pipe Locator.exe
+C:\Users\luxju\source\repos\Pipe Locator\Pipe Locator\bin\Debug\Pipe Locator.pdb
+C:\Users\luxju\source\repos\Pipe Locator\Pipe Locator\obj\Debug\Pipe Locator.csproj.AssemblyReference.cache
+C:\Users\luxju\source\repos\Pipe Locator\Pipe Locator\obj\Debug\Pipe Locator.csproj.SuggestedBindingRedirects.cache
+C:\Users\luxju\source\repos\Pipe Locator\Pipe Locator\obj\Debug\Pipe_Locator.Form1.resources
+C:\Users\luxju\source\repos\Pipe Locator\Pipe Locator\obj\Debug\Pipe_Locator.Properties.Resources.resources
+C:\Users\luxju\source\repos\Pipe Locator\Pipe Locator\obj\Debug\Pipe Locator.csproj.GenerateResource.cache
+C:\Users\luxju\source\repos\Pipe Locator\Pipe Locator\obj\Debug\Pipe Locator.csproj.CoreCompileInputs.cache
+C:\Users\luxju\source\repos\Pipe Locator\Pipe Locator\obj\Debug\Pipe Locator.exe
+C:\Users\luxju\source\repos\Pipe Locator\Pipe Locator\obj\Debug\Pipe Locator.pdb
